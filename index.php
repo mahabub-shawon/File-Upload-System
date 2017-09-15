@@ -7,4 +7,4 @@
  */
 
 echo 'Hello GitHub';
-echo 'second commite from parallaxmahabub@gmail.com';
+echo 'First committed from parallaxmahabub@gmail.com ';
