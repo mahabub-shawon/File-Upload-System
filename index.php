@@ -7,4 +7,8 @@
  */
 
 echo 'Hello GitHub';
-echo 'First committed from parallaxmahabub@gmail.com ';
+echo 'second committed from parallaxmahabub@gmail.com ';
+echo 'new code'
+function function1(){
+	echo 'this is function 1';
+}
